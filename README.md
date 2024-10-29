@@ -29,11 +29,11 @@ You'll also need to load the dataset, which should be stored in a CSV file named
 
 ## Data Overview
 
-The dataset contains information about students, including their gender, ethnic group, parental education, lunch type, test preparation, parental marital status, practice of sports, and more. It also includes scores in math, reading, and writing.
+This dataset includes key attributes such as gender, ethnic group, parental education, and lunch type, along with essential factors like test preparation, parental marital status, and sports participation. What makes this project truly engaging is the inclusion of students' scores in math, reading, and writing. By analyzing these variables, I aimed to uncover trends and patterns that could influence academic performance and student well-being. This project not only enhances our understanding of student dynamics but also highlights the importance of various socio-economic factors in education.
 
 ## Data Cleaning
 
-The analysis begins with data cleaning to handle missing values and remove unnecessary columns. The "Unnamed: 0" column is dropped, and missing values in various columns are addressed.
+The analysis kicks off with a crucial data cleaning process to ensure the dataset is ready for insightful analysis. First, I identify and eliminate unnecessary columns, including the "Unnamed: 0" column, which serves no analytical purpose. Next, I tackle missing values across multiple columns, employing strategies like imputation or removal, depending on the context and impact on the dataset's integrity. This step is vital as it enhances data quality, ensuring that the analysis yields accurate and reliable results. By meticulously cleaning the data, I lay a strong foundation for subsequent analyses, allowing for clearer insights into the factors influencing student performance and overall educational outcomes.
 
 ## Exploratory Data Analysis
 
@@ -43,7 +43,7 @@ The analysis begins with data cleaning to handle missing values and remove unnec
 
 ## Outlier Detection
 
-Detects outliers in math, reading, and writing scores using box plots.
+To identify outliers in the math, reading, and writing scores, I utilized box plots. This visual tool highlights data points that fall outside the interquartile range, allowing for easy detection of anomalies. Understanding these outliers is crucial for refining analyses and interpreting student performance accurately.
 
 ## Ethnic Group Distribution
 
