@@ -1,7 +1,7 @@
 # Student-Result-Analysis
 The project focuses on exploring and visualizing various aspects of student performance, including factors like gender, parental education, marital status, and ethnic group
 
-
+https://www.boldbi.com/wp-content/uploads/2024/01/student-performance-featured.webp
 
 ## Contents
 
